@@ -1,0 +1,9 @@
+https://github.com/TrifectaKS/Video-Steganography-Thesis
+https://stackoverflow.com/questions/43983265/rgb-to-yuv-conversion-and-accessing-y-u-and-v-channels
+https://github.com/CSE-Projects/Secure-Video-Steganography
+https://github.com/tomershay100/MP3-Steganography-Project
+https://github.com/aroyofficial/incognitobit#documentation
+https://github.com/arooshiverma/Audio-Steganography-using-LSB-susbstitution
+https://github.com/pawelkaczmarek12/The-A-Files
+https://github.com/grakshith/lossless-text-steganography
+https://github.com/ashishgangurde21/AudioSteganography/blob/main/Final%20Paper.pdf
