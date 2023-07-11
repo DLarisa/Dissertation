@@ -1,2 +1,3 @@
 # Dissertation
-Dissertation for master of Security and Applied Logic at FMI, UniBuc (Video Steganography - Topic)
+This repo contains my research work for the dissertation thesis (master: **SAL - _Security and Applied Logic_**, FMI, UniBuc).
+The title of my thesis is: *Video Steganography*. It combines both **image steganographic techniques** (*modified LSB*) and **audio ones** (*DCT and DWT*). The paper can be found [here](https://github.com/DLarisa/Dissertation/blob/master/Diserta%C8%9Bie/Documente/Diserta%C8%9Bie.docx) and the presentation is [here](https://github.com/DLarisa/Dissertation/blob/master/Diserta%C8%9Bie/Documente/Prezentare.pptx). The algorithm was implemented using Python. Here is a screenshot of the UI:
